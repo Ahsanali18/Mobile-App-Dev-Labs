@@ -8,17 +8,17 @@ class MyApp extends StatelessWidget {
   final List<Map<String, String>> contacts = [
     {
       "name": "Ahsan Ali",
-      "phone": "03XX-XXXXXXXX",
+      "phone": "03XX-XXXXXXX",
       "image": "https://robohash.org/1.png"
     },
     {
       "name": "Jibran Shaikh",
-      "phone": "0311-9876543",
+      "phone": "03XX-XXXXXXX",
       "image": "https://robohash.org/2.png"
     },
     {
       "name": "Dhani Bux",
-      "phone": "0333-5678901",
+      "phone": "03XX-XXXXXXX",
       "image": "https://robohash.org/3.png"
     },
   ];
